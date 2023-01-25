@@ -69,3 +69,24 @@
 
 
 ## Screenshots
+
+### Register Page
+![This is an image](https://raw.githubusercontent.com/AfnanElhussini/Attendance-System-CST/master/img/screenshots/register.png)
+
+### Login Page
+![This is an image](https://raw.githubusercontent.com/AfnanElhussini/Attendance-System-CST/master/img/screenshots/login.png)
+
+### Home Page
+![This is an image](https://raw.githubusercontent.com/AfnanElhussini/Attendance-System-CST/master/img/screenshots/home.png)
+
+### Profile Page
+![This is an image](https://raw.githubusercontent.com/AfnanElhussini/Attendance-System-CST/master/img/screenshots/profile.png)
+
+### Attendance Page
+![This is an image](https://raw.githubusercontent.com/AfnanElhussini/Attendance-System-CST/master/img/screenshots/attendance.png)
+
+### Reports Page
+![This is an image](https://raw.githubusercontent.com/AfnanElhussini/Attendance-System-CST/master/img/screenshots/reports.png)
+
+### Admin Panel Page
+![This is an image](https://raw.githubusercontent.com/AfnanElhussini/Attendance-System-CST/master/img/screenshots/adminpanel.png)
