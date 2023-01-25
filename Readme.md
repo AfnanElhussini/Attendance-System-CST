@@ -40,31 +40,22 @@
 ## Tools Used :
 
 - HTML 5
-
 - CSS 3
-
 - Javascript
-
   - DOM
   - ES6
   - AJAX
   - session storage
-
 - Jquery
-
 - Bootstrap 5
 - SMTP.js
     - sending emails to new users with their credintials
 - Sweet Alert 2
   - as a custom notifying method
 - Html2pdf
-
   - to enable downloading reports locally
-
 - Charts.js
-
   - to make easier display of Employee's data in a form of charts
-
 - Bootstrap 5 Icons
 
 
