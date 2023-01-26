@@ -6,7 +6,7 @@
 > Features will be listed as a user journey in the system
 - users can register to the Attendance system with string validation methods
 
-- after sucssfull registeration .. an email wil be send to user with his random generated username and password
+- after successful registeration .. an email wil be send to user with his random generated username and password
 
 - the system has 3 roles 
     - Admin (me)
@@ -33,7 +33,7 @@
     - Admin can do what an user or subadmin can do with more features 
     - Admin can also take attendance + make excuses for employees
 
-    - Only admin can view all data for all users (attendance  , absence , late , excuses , username) in form of datatable and in a more easy way like in charts
+    - Only admin can view all data for all users (attendance  , absence , lateness , excuses , username) in form of datatable and in a more easy way like in charts
 
     - Admin can download reports for all users with their statistics charts as a PDF
 
